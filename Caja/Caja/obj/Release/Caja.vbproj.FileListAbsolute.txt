@@ -1,0 +1,12 @@
+C:\Users\CMONTES\source\repos\Caja\Caja\bin\Release\Caja.exe.config
+C:\Users\CMONTES\source\repos\Caja\Caja\bin\Release\Caja.exe
+C:\Users\CMONTES\source\repos\Caja\Caja\bin\Release\Caja.pdb
+C:\Users\CMONTES\source\repos\Caja\Caja\bin\Release\Caja.xml
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.Form1.resources
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.Form2.resources
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.Resources.resources
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.vbproj.GenerateResource.cache
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.vbproj.CoreCompileInputs.cache
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.exe
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.xml
+C:\Users\CMONTES\source\repos\Caja\Caja\obj\Release\Caja.pdb
